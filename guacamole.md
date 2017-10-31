@@ -3,4 +3,4 @@
 -lime
 -salt
 # Instructions
-CHANGE
+Start from the beginning.
